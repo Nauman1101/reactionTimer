@@ -1,4 +1,4 @@
-# reactiontimergame
+# Reaction Timer Game
 
 ## Project setup
 ```
